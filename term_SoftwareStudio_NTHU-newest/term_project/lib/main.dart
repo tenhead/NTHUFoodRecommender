@@ -9,6 +9,8 @@ import 'package:term_project/services/providers/refresh_provider.dart';
 import 'package:flutter_gemini/flutter_gemini.dart';
 import 'package:term_project/services/providers/theme_provider.dart';
 
+//chen demo
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
